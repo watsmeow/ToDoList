@@ -49,6 +49,7 @@ html {
     border: none;
     background-color: #E38B7F;
     color: white;
+    cursor: pointer;
   }
 
   input, input:active {
